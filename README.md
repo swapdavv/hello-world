@@ -1,2 +1,2 @@
 # hello-world
-Create test project
+Create test project for Spring
